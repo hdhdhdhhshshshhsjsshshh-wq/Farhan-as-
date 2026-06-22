@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Pacar Simulator",
+  "description": "Simulator game nge-chat pacar virtual seperti WhatsApp dengan AI. Pacar bisa ngambek, marah, minta duit, ngajak putus, atau nge-date romantis tergantung caramu membalas chat!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
